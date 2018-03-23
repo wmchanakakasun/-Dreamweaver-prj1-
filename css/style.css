@@ -1,0 +1,4 @@
+@charset "utf-8";
+body p {
+	background-image: url(../images/bkgd.jpg);
+}
